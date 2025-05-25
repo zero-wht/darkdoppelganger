@@ -1,0 +1,21 @@
+{
+  "item.darkdoppelganger.summon_scroll": "召唤卷轴",
+  "item.darkdoppelganger.shadow_orb": "暗影宝珠",
+  "item.darkdoppelganger.doppelganger_ring": "幻影之戒",
+  "item.darkdoppelganger.elder_necklace": "长老项链",
+  "item.darkdoppelganger.summons_necklace": "召唤师项链",
+  "itemGroup.darkdoppelganger.example_tab": "暗影幻影标签页",
+  "item.darkdoppelganger.summon_scroll.tooltip": "使用此卷轴召唤暗影幻影！",
+  "advancement.kill_dark_doppelganger.title": "暗影幻影杀手",
+  "advancement.kill_dark_doppelganger.description": "如果你击败了暗影幻影。就会得到他的奖励！",
+  "advancement.summon_dark_doppelganger.title": "暗影幻影觉醒",
+  "advancement.summon_dark_doppelganger.description": "使用召唤卷轴召唤暗影幻影。",
+  "spell.irons_spellbooks.doppel_portal": "传送门跳跃",
+  "spell.darkdoppelganger.doppel_portal": "传送门跳跃",
+  "tooltip.doppelganger.passive_ability": "被动技能冷却时间：%s秒",
+  "tooltip.doppelganger.health_bonus": "增加%s点最大生命值",
+  "tooltip.doppelganger.cooldown_reduction": "冷却时间减少%s",
+  "itemGroup.items.darkdoppelganger": "暗影幻影",
+  "itemGroup.item.darkdoppelganger": "暗影幻影",
+  "spell.irons_spellbooks.doppel_portal.guide": "通过前方召唤的传送门进入，从另一处传送门出现。"
+}
